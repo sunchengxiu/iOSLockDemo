@@ -577,7 +577,7 @@ NSCondition主要的方法有，wait，waitUntilDate，signal，broadcast，sign
 # 以上就是个人对ios八种锁的理解，如果有不对的地方一定要指正，告诉我，这样大家才能共同进步，谢谢，顺便发一下自己的公众号二维码，以后会在上面写一下iOS，Python，mysql，C++，等等各种技术的文章，从浅入深，共同进步
 
 [【DEMO】](https://github.com/sunchengxiu/iOSLockDemo.git)
-![二维码](/Users/sunchengxiu/Desktop/qrcode_for_gh_bc3a83de5e09_1280.jpg)
+![二维码](https://raw.githubusercontent.com/sunchengxiu/-/master/qrcode_for_gh_bc3a83de5e09_1280.jpg)
 
 
 
